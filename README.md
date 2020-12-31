@@ -6,5 +6,5 @@ _  /  / / _  / / /__ _  / / / /_/ //  __/  /     _  /___/  __/  __/
 /_/  /_/  /_/  \___/ /_/ /_/\__,_/ \___//_/      /_____/\___/\___/ 
 ```                           
 
-![Michael Lee's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaellee123)
-![Michael Lee's github stats](https://github-readme-stats.vercel.app/api?username=michaellee123&show_icons=true)
+![Michael Lee's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaellee123&theme=vue-dark)
+![Michael Lee's github stats](https://github-readme-stats.vercel.app/api?username=michaellee123&show_icons=true&theme=vue-dark)
