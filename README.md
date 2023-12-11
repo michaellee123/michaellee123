@@ -6,4 +6,5 @@ _  /  / / _  / / /__ _  / / / /_/ //  __/  /     _  /___/  __/  __/
 /_/  /_/  /_/  \___/ /_/ /_/\__,_/ \___//_/      /_____/\___/\___/ 
 ```                           
 
-[![Buy me a coffee](https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-44b9f406d764e57b710bffe31a346b33-tcf2mnas.jpg)](https://ko-fi.com/michaellee123)
+
+[<img src="https://storage.ko-fi.com/cdn/generated/zfskfgqnf/rest-44b9f406d764e57b710bffe31a346b33-tcf2mnas.jpg" width="300rem;" style="border-radius:'14px!important'">](https://ko-fi.com/michaellee123)
